@@ -25,7 +25,7 @@
     <!-- Footer -->
   <div class="bg-dark text-white pt-3 pb-3">
     <footer class="text-center">
-      <p>@ 2026 My Website</p>
+      <p>@ 2026 testwebsite</p>
     </footer>
     </div>
   </div>
