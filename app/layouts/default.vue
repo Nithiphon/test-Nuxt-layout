@@ -25,18 +25,14 @@
     <!-- Footer -->
   <div class="bg-dark text-white pt-3 pb-3">
     <footer class="text-center">
-      <p>© 2024 My Website</p>
+      <p>@ 2026 My Website</p>
     </footer>
     </div>
   </div>
 </template>
 
 <style scoped>
-  .text-hero{
-    
 
-  }
-  
   .hero{
     background-color:#3366FF;
   }
